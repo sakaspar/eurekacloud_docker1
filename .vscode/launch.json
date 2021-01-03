@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootService2App<SpringBootService2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "kh.springcloud.eureka.service2.SpringBootService2App",
+            "projectName": "SpringBootService2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringCloudEurekaApplication<SpringCloudEureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "kh.springcloud.eureka.SpringCloudEurekaApplication",
+            "projectName": "SpringCloudEureka",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootService1App<SpringBootService1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "kh.springcloud.eureka.service1.SpringBootService1App",
+            "projectName": "SpringBootService1",
+            "args": ""
+        }
+    ]
+}
